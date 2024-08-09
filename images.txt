@@ -2,3 +2,4 @@ linuxserver/emby:latest
 linuxserver/prowlarr:latest
 linuxserver/qbittorrent:latest
 hsuyelin/nas-tools:latest
+pymumu/smartdns:latest
