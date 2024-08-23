@@ -3,3 +3,4 @@ linuxserver/prowlarr:latest
 linuxserver/qbittorrent:latest
 hsuyelin/nas-tools:latest
 pymumu/smartdns:latest
+jothiprasath2/qbittorrent-enhanced-edition:latest
