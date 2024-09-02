@@ -3,3 +3,4 @@ linuxserver/qbittorrent:latest
 hsuyelin/nas-tools:latest
 photoprism/photoprism:latest
 advplyr/audiobookshelf:latest
+seedgou/zerotier-moon
