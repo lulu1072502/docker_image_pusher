@@ -1,6 +1,6 @@
-linuxserver/emby:latest
-linuxserver/qbittorrent:latest
-hsuyelin/nas-tools:latest
-photoprism/photoprism:latest
+#linuxserver/emby:latest
+#linuxserver/qbittorrent:latest
+#hsuyelin/nas-tools:latest
+#photoprism/photoprism:latest
 advplyr/audiobookshelf:latest
-zerotier/zerotier:latest
+#zerotier/zerotier:latest
