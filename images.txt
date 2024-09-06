@@ -4,3 +4,5 @@ hsuyelin/nas-tools:latest
 advplyr/audiobookshelf:latest
 zerotier/zerotier:latest
 portainer/portainer-ce
+containrrr/watchtower
+hanxi/xiaomusic
